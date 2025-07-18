@@ -1,4 +1,4 @@
-f=open('17.txt')
+f=open('Файл к заданию 17.txt')
 m=[int(x) for x in f]
 m1=[]
 for i in range (len(m)-2):
